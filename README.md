@@ -1,6 +1,6 @@
 # 👾 Italo Mangueira
 
-**`Desenvolvedora FullStack 🤖`**
+**`Desenvolvedor FullStack 🤖`**
 
 Meu nome é Italo Mangueira Adriano de Morais e sou um desenvolvedor de software em início de carreira, impulsionado por uma grande paixão por tecnologia e inovação. Sou graduado em Engenharia de Software e, mesmo sem experiência profissional na área, venho investindo fortemente na minha formação técnica por meio de certificações reconhecidas, especialmente da Microsoft. Essas certificações refletem meu comprometimento com o aprendizado contínuo e minha busca por excelência, preparando-me para atuar de forma sólida e responsável em ambientes de desenvolvimento profissional.
 
